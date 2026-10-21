@@ -45,7 +45,7 @@ pixel.quora.com
 qevents.quora.com
 px.srvcs.tumblr.com
 ads.vk.com
-vk.com/rtrg
+vk.com
 advertising.apple.com
 xp.apple.com
 ads.huawei.com
@@ -83,3 +83,4 @@ dai.google.com
 ssl.p.jwpcdn.com
 api.mouseflow.com
 tools.mouseflow.com
+ironsource.mobi
